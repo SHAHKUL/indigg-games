@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.forms {
+  position: absolute;
+  top: 50px;
+  left: 450px;
+  padding: 30px;
+  height: 600px;
+  width: 500px;
+  background: rgb(205, 202, 202);
+  border: none;
+  border-radius: 25px;
+}
